@@ -1,4 +1,4 @@
-function callbacklog(){
+function callbacklog(element, index){
 console.log(`${index}: ${element}`);
 }
 
