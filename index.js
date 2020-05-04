@@ -1,5 +1,5 @@
 function callbacklog(){
-console.log(${index}: ${element});
+console.log(`${index}: ${element}`);
 }
 
 function iterativeLog(array){
